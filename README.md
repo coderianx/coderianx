@@ -18,7 +18,7 @@
 
 ## 📫 Connect with me
 
-[![X](https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/coderian_dev)  
+[![X](https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black)](https://x.com/the_coderian)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/coderian)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_coderian)
 

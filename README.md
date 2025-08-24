@@ -18,7 +18,5 @@
 
 ---
 
----
-
 > “Writing code is not just a job, it's a passion and art.”  
 > — Coderian

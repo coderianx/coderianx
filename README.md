@@ -10,7 +10,5 @@
 
 📦 Learn more about Flint: [https://github.com/coderianx/flint](https://github.com/coderianx/flint)
 
-## 📫 Connect with me
-
 > “Writing code is not just a job, it's a passion and art.”  
 > — Coderian

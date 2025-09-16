@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Codeiran 👋
 
-<!--
-**coderianx/coderianx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I am a backend developer/cybersecurity and the Creator and Developer of Flint
 
-Here are some ideas to get you started:
+# I 💛 Golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Know
+
+<img src="https://skillicons.dev/icons?i=golang,python,bash,javascript,typescript,html,css,cpp,nodejs,express,flask,fastapi&theme=dark"/>
+
+🌱 Currently focused on developing my own Go web framework **Flint**.
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderianx&layout=compact&langs_count=6&cache_seconds=21600&theme=tokyonight)
+
+
+📦 Learn more about Flint: [https://github.com/coderianx/flint](https://github.com/coderianx/flint)
+
+> “Writing code is not just a job, it's a passion and art.”  
+> — Coderian

@@ -11,7 +11,7 @@
 🌱 Currently focused on developing my own Go web framework **Flint**.
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderianx&layout=compact&langs_count=4&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderianx&layout=compact&theme=tokyonight&cache_seconds=10800&count=4)
 
 📦 Learn more about Flint: [https://github.com/coderianx/flint](https://github.com/coderianx/flint)
 

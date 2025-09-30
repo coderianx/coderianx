@@ -9,7 +9,17 @@
 
 🚀 I am a backend developer/cybersecurity and the Creator and Developer of Flint
 
-[Naxis🤜](https://github.com/naxis2)
+<h1 align="center">
+  <a href="https://github.com/naxis2">🚀 Naxis 🤜</a>
+</h1>
+
+<p align="center">
+  <b>Code • Create • Conquer</b>  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naxis2&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
 # I 💛 Golang
 

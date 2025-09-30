@@ -9,26 +9,9 @@
 
 🚀 I am a backend developer/cybersecurity and the Creator and Developer of Flint
 
-<h1 align="center">🔥 Naxis 🤜</h1>
-
-<p align="center">
-  <a href="https://github.com/naxis2">
-    <img src="https://img.shields.io/badge/GitHub-Naxis2-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/naxis2?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explorer-blueviolet?style=for-the-badge&logo=rocket" />
-  </a>
-  <img src="https://img.shields.io/badge/Code-Power-green?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge&logo=opensourceinitiative" />
-</p>
-
-<p align="center">
-  <i>🚀 Dream it • 💻 Code it • 🌌 Live it</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naxis2&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+<h3 align="center">
+  <a href="https://github.com/naxis2"> Naxis 🤜</a>
+</h3>
 
 # I 💛 Golang
 

@@ -9,7 +9,7 @@
 
 🚀 I am a backend developer/cybersecurity and the Creator and Developer of Flint
 
-[Naxis🤜](github.com/naxis2)
+[Naxis🤜](https://github.com/naxis2)
 
 # I 💛 Golang
 

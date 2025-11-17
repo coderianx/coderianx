@@ -7,7 +7,7 @@
   />
 </a><br>
 
-🚀 I am a backend developer/cybersecurity and the Creator and Developer of Flint
+🚀 I am a Fullstack Developer/cybersecurity and the Creator and Developer of Flint
 
 <h3 align="center">
   <a href="https://github.com/naxis2"> Naxis 🤜</a>
@@ -17,7 +17,7 @@
 
 ## 💻 Technologies I Know
 
-<img src="https://skillicons.dev/icons?i=golang,python,bash,javascript,typescript,html,css,cpp,nodejs,express,flask,fastapi,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=golang,python,bash,javascript,typescript,html,css,cpp,nodejs,express,flask,fastapi,react,tailwind&theme=dark"/>
 
 🌱 Currently focused on developing my own Go web framework **Flint**.
 

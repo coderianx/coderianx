@@ -17,7 +17,7 @@
 
 ## 💻 Technologies I Know
 
-<img src="https://skillicons.dev/icons?i=golang,python,bash,javascript,typescript,html,css,cpp,nodejs,express,flask,fastapi,react,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=golang,python,bash,javascript,typescript,html,css,cpp,nodejs,express,flask,fastapi,react,tailwind,redis,sqlite,mongodb&theme=dark"/>
 
 🌱 Currently focused on developing my own Go web framework **Flint**.
 

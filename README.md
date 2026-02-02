@@ -23,6 +23,7 @@
 
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderianx&layout=compact&theme=tokyonight&cache_seconds=10800&langs_count=4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderianx)](https://github.com/anuraghazra/github-readme-stats)
 
 📦 Learn more about Flint: [https://github.com/coderianx/flint](https://github.com/coderianx/flint)
 

@@ -9,10 +9,6 @@
 
 🚀 I am a Fullstack Developer/cybersecurity and the Creator and Developer of Flint
 
-<h3 align="center">
-  <a href="https://github.com/naxis2"> Naxis 🤜</a>
-</h3>
-
 # I 💛 Golang
 
 ## 💻 Technologies I Know

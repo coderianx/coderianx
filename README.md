@@ -85,7 +85,7 @@ I'm a backend developer from Turkey who lives and breathes **server-side code**.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=coderianx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=coderianx&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderianx&theme=tokyonight&hide_border=true" />
 </div>
 

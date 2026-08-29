@@ -95,6 +95,16 @@ I'm a backend developer from Turkey who lives and breathes **server-side code**.
 
 ---
 
+## ⚔️ Codewars
+
+<p align="center">
+  <a href="https://www.codewars.com/users/coderianx">
+    <img src="https://www.codewars.com/users/coderianx/badges/large" alt="Codewars Profile" />
+  </a>
+</p>
+
+---
+
 ## 🎧 Now Playing
 
 <p align="center">

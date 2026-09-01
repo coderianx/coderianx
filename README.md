@@ -11,20 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F20089&center=true&vCenter=true&width=500&lines=Building+robust+%26+elegant+systems;Golang+%3E+Everything+else;Open+source+advocate;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Role-Backend_%2B_CyberSec-2d00f7?style=for-the-badge&labelColor=6a00f4" />
-  <img src="https://img.shields.io/badge/Lives-Turkey-8900f2?style=for-the-badge&labelColor=a100f2" />
-  <img src="https://img.shields.io/badge/Languages-English+Turkish-bc00dd?style=for-the-badge&labelColor=d100d1" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%9A-Golang_Hastas%C4%B1-f20089?style=for-the-badge&labelColor=db00b6" />
-</div>
-
 <br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
 
 <table align="center">
   <tr>
@@ -44,6 +31,16 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,pytorch,fastapi,cpp,ts,express,postgres,redis,git,github,docker,linux,bash&theme=dark&perline=7" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 ---
 
@@ -79,10 +76,6 @@ I'm a backend developer from Turkey who lives and breathes **server-side code**.
 ---
 
 ## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,pytorch,fastapi,cpp,ts,express,postgres,redis,git,github,docker,linux,bash&theme=dark&perline=8" />
-</p>
 
 <table align="center">
   <tr>

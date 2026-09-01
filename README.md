@@ -1,4 +1,4 @@
-<a href="#">
+<a href="https://github.com/coderianx">
   <img 
     alt="Banner" 
     width="100%" 
@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Backend_Developer-2d00f7?style=for-the-badge&labelColor=6a00f4" />
+  <img src="https://img.shields.io/badge/Role-Backend_%2B_CyberSec-2d00f7?style=for-the-badge&labelColor=6a00f4" />
   <img src="https://img.shields.io/badge/Lives-Turkey-8900f2?style=for-the-badge&labelColor=a100f2" />
   <img src="https://img.shields.io/badge/Languages-English+Turkish-bc00dd?style=for-the-badge&labelColor=d100d1" />
   <img src="https://img.shields.io/badge/%F0%9F%92%9A-Golang_Hastas%C4%B1-f20089?style=for-the-badge&labelColor=db00b6" />
@@ -26,39 +26,118 @@
 
 ---
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.pinimg.com/1200x/02/d7/0b/02d70ba08f0d311b11ba66c022c37c8b.jpg" width="190" alt="anime girl" style="border-radius: 16px; border: 3px solid #f20089; box-shadow: 0 0 25px rgba(242,0,137,0.35);" />
+    </td>
+    <td valign="middle">
+      <h2 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="30" />
+        Mega <a href="https://go.dev">Golang</a> Lover
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="30" />
+      </h2>
+      <p align="center">
+        <img src="https://img.shields.io/badge/%F0%9F%92%9A-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=2d00f7" /><br>
+        <sub><i>“Golang is not just a language, it's a lifestyle.”</i></sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧑‍💻 About Me
 
 ```yaml
 name: Coderian
-role: Backend Developer
+role: Backend Developer & Cybersecurity Enthusiast
 location: Turkey
 
-stack:
-  core: [Go, Gin, Chi, Node.js, Express, TypeScript, JavaScript]
-  secondary: [Python, FastAPI, C++]
-  databases: [PostgreSQL, MongoDB, SQLite3, SQL]
+main_field:
+  cybersecurity: "My love & main area" 🛡️
 
-obsession: Golang 💚
+language:
+  primary: "Go (Golang) — my native language, my passion" 💚
+  know: [C++, Python, TypeScript, JavaScript]
+
+go_frameworks: [Echo, Chi, Gin]
+ai_ml:
+  python: [Python, PyTorch]
+  frameworks: [FastAPI]
+
+web: [TypeScript, JavaScript, Express.js]
+database: [PostgreSQL, Redis]
+tools: [Git, GitHub]
+
 philosophy: "Clean code, minimal dependencies, maximum performance"
 status: "Currently building something in Go... as always"
 ```
 
-I'm a backend developer from Turkey who lives and breathes **server-side code**. My day-to-day revolves around **Go** — I build APIs with Gin and Chi that are fast, clean, and maintainable. Whether it's designing REST APIs, optimizing database queries, or crafting CLI tools — I'm in my element when the compiler says `#command-line-arguments` `built successfully.` 🎯
+I'm a backend developer from Turkey who lives and breathes **server-side code**. **Go (Golang)** is my native language and my biggest passion — I build fast, clean, and maintainable APIs with **Echo, Chi & Gin**, write CLI tools, and tinker with Go for almost everything. I use **PostgreSQL** and **Redis** as my databases, and I'm comfortable with **TypeScript/JavaScript + Express.js** for web work. I'm also deeply into **cybersecurity** (my main field), dive into **AI/ML** with **Python + PyTorch + FastAPI**, and know my way around **C++**. When the compiler says `built successfully.` — I'm in my element. 🎯
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,ts,js,py,fastapi,cpp,postgres,mongodb,sqlite,redis,docker,linux,bash,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,python,pytorch,fastapi,cpp,ts,express,postgres,redis,git,github,docker,linux,bash&theme=dark&perline=8" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chi-00ADD8?style=flat-square&logo=go&logoColor=white" />
-</p>
-
-<br>
+<table align="center">
+  <tr>
+    <th align="center">Area</th>
+    <th align="center">Stack</th>
+  </tr>
+  <tr>
+    <td align="center">🐹 <b>Go (Golang)</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chi-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🗄️ <b>Database</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🧠 <b>AI / ML</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌐 <b>Web / Frontend</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🛡️ <b>Cybersecurity</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/My_Main_Field-%E2%9C%94-2d00f7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">⚙️ <b>Also</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 > **"Golang is not just a language, it's a lifestyle."** — Me, daily
 
@@ -67,16 +146,19 @@ I'm a backend developer from Turkey who lives and breathes **server-side code**.
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/coderianx/forum-backend">
-    <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=coderianx&repo=forum-backend&theme=tokyonight&hide_border=true&description_lines_count=2" />
-  </a>
   <a href="https://github.com/coderianx/flint">
     <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=coderianx&repo=flint&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
+  <a href="https://github.com/coderianx/telego">
+    <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=coderianx&repo=telego&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
 </p>
 <p align="center">
-  <a href="https://github.com/coderianx/pardusedu">
-    <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=coderianx&repo=pardusedu&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  <a href="https://github.com/coderianx/vingo">
+    <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=coderianx&repo=vingo&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/coderianx/obserra">
+    <img width="45%" src="https://github-readme-stats.shion.dev/api/pin/?username=coderianx&repo=obserra&theme=tokyonight&hide_border=true&description_lines_count=2" />
   </a>
 </p>
 
@@ -90,7 +172,7 @@ I'm a backend developer from Turkey who lives and breathes **server-side code**.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderianx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117" width="100%" />
+  <img src="https://gh-readme-activity-graph.vercel.app/graph?username=coderianx&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph&bg_color=0d1117" width="100%" />
 </div>
 
 ---
@@ -104,12 +186,6 @@ I'm a backend developer from Turkey who lives and breathes **server-side code**.
 </p>
 
 ---
-
-## 🎧 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31omrkgsketuk2izaz56xslqfkhm&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" width="400" />
-</p>
 
 <details>
   <summary><b>💡 Dev Quote</b></summary>
@@ -128,11 +204,10 @@ I'm a backend developer from Turkey who lives and breathes **server-side code**.
   <a href="https://github.com/coderianx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/the_coderian"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://t.me/coderianx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/coderianx"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 </div>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=coderianx&label=Profile+Views&countColor=%23f20089&style=flat-square&labelStyle=upper" />
+  <img src="https://komarev.com/ghpvc/?username=coderianx&color=F20089&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/coderianx?style=flat-square&logo=github&label=Followers&color=F20089" />
   <img src="https://img.shields.io/github/stars/coderianx?style=flat-square&logo=star&label=Stars&color=F20089" />
 </div>
